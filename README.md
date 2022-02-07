@@ -9,5 +9,5 @@ This project is showcasing usage of CSS and some HTML elements such as:
 
 ## Usage
 
-Start the website by clicking on "index.html". Then play by entering text into page fields.
+Start the website by clicking [here](https://nenalukic.github.io/registration-form/). Then play by entering text into page fields.
 
